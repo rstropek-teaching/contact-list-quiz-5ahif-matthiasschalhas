@@ -1,0 +1,11 @@
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\bin\Release\netcoreapp2.0\ContactListQuiz.deps.json
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\bin\Release\netcoreapp2.0\ContactListQuiz.runtimeconfig.json
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\bin\Release\netcoreapp2.0\ContactListQuiz.runtimeconfig.dev.json
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\bin\Release\netcoreapp2.0\ContactListQuiz.dll
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\bin\Release\netcoreapp2.0\ContactListQuiz.pdb
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\obj\Release\netcoreapp2.0\ContactListQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\obj\Release\netcoreapp2.0\ContactListQuiz.AssemblyInfoInputs.cache
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\obj\Release\netcoreapp2.0\ContactListQuiz.AssemblyInfo.cs
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\obj\Release\netcoreapp2.0\ContactListQuiz.dll
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\obj\Release\netcoreapp2.0\ContactListQuiz.pdb
+C:\Users\Matthias\Documents\Visual Studio 2017\Projects\ContactListQuiz\ContactListQuiz\obj\Release\netcoreapp2.0\ContactListQuiz.csprojResolveAssemblyReference.cache
